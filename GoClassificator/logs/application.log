@@ -1,0 +1,838 @@
+2025/03/04 02:14:55 Logging initialized successfully
+INFO: 2025/03/04 02:14:55 logger.go:45: Successfully connected to database
+2025/03/04 02:14:55 Server running at http://localhost:8080
+2025/03/04 02:15:45 Logging initialized successfully
+INFO: 2025/03/04 02:15:45 logger.go:45: Successfully connected to database
+2025/03/04 02:15:45 Server running at http://localhost:8080
+INFO: 2025/03/04 02:15:54 logger.go:45: API Key validated
+INFO: 2025/03/04 02:17:14 logger.go:45: API Key validated
+INFO: 2025/03/04 02:17:43 logger.go:45: API Key validated
+INFO: 2025/03/04 02:18:28 logger.go:45: API Key validated
+INFO: 2025/03/04 02:20:02 logger.go:45: API Key validated
+INFO: 2025/03/04 02:20:50 logger.go:45: API Key validated
+2025/03/04 02:22:27 Logging initialized successfully
+INFO: 2025/03/04 02:22:27 logger.go:45: Successfully connected to database
+2025/03/04 02:22:27 Server running at http://localhost:8080
+2025/03/04 02:23:59 Logging initialized successfully
+INFO: 2025/03/04 02:23:59 logger.go:45: Successfully connected to database
+2025/03/04 02:23:59 Server running at http://localhost:8080
+2025/03/04 02:24:25 Logging initialized successfully
+INFO: 2025/03/04 02:24:25 logger.go:45: Successfully connected to database
+2025/03/04 02:24:25 Server running at http://localhost:8080
+INFO: 2025/03/04 02:24:32 logger.go:45: API Key validated
+INFO: 2025/03/04 02:24:32 logger.go:45: Creating database connection
+ERROR: 2025/03/04 02:26:48 logger.go:73: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+2025/03/04 02:38:38 Logging initialized successfully
+INFO: 2025/03/04 02:38:38 logger.go:45: Successfully connected to database
+2025/03/04 02:38:38 Server running at http://localhost:8080
+INFO: 2025/03/04 02:38:43 logger.go:45: API Key validated
+INFO: 2025/03/04 02:38:43 logger.go:45: Creating database connection
+2025/03/04 02:39:28 Logging initialized successfully
+INFO: 2025/03/04 02:39:28 logger.go:45: Successfully connected to database
+2025/03/04 02:39:28 Server running at http://localhost:8080
+INFO: 2025/03/04 03:22:48 logger.go:45: API Key validated
+INFO: 2025/03/04 03:22:48 logger.go:45: Creating database connection
+ERROR: 2025/03/04 03:25:02 logger.go:73: Error connecting to database: dial tcp 172.17.0.1:3307: connect: connection timed out
+2025/03/04 04:00:31 Logging initialized successfully
+INFO: 2025/03/04 04:00:31 logger.go:45: Successfully connected to database
+2025/03/04 04:00:31 Server running at http://localhost:8080
+INFO: 2025/03/04 04:00:50 logger.go:45: API Key validated
+INFO: 2025/03/04 04:00:50 logger.go:45: Creating database connection
+ERROR: 2025/03/04 04:03:03 logger.go:73: Error connecting to database: dial tcp 172.17.0.1:3307: connect: connection timed out
+2025/03/04 04:28:16 Logging initialized successfully
+INFO: 2025/03/04 04:28:16 logger.go:45: Successfully connected to database
+2025/03/04 04:28:16 Server running at http://localhost:8080
+2025/03/04 04:30:16 Logging initialized successfully
+INFO: 2025/03/04 04:30:16 logger.go:45: Successfully connected to database
+2025/03/04 04:30:16 Server running at http://localhost:8080
+2025/03/04 04:30:21 Logging initialized successfully
+INFO: 2025/03/04 04:30:21 logger.go:45: Successfully connected to database
+2025/03/04 04:30:21 Server running at http://localhost:8080
+2025/03/04 04:33:33 Logging initialized successfully
+INFO: 2025/03/04 04:33:33 logger.go:45: Successfully connected to database
+2025/03/04 04:33:33 Server running at http://localhost:8080
+INFO: 2025/03/04 04:36:57 logger.go:45: API Key validated
+INFO: 2025/03/04 04:36:57 logger.go:45: Creating database connection
+ERROR: 2025/03/04 04:39:10 logger.go:73: Error connecting to database: dial tcp 172.17.0.1:3307: connect: connection timed out
+2025/03/04 04:47:00 Logging initialized successfully
+INFO: 2025/03/04 04:47:00 logger.go:45: Successfully connected to database
+2025/03/04 04:47:00 Server running at http://localhost:8080
+INFO: 2025/03/04 04:47:29 logger.go:45: API Key validated
+INFO: 2025/03/04 04:47:29 logger.go:45: Creating database connection
+ERROR: 2025/03/04 04:49:45 logger.go:73: Error connecting to database: dial tcp 172.17.0.1:3307: connect: connection timed out
+2025/03/04 04:55:53 Logging initialized successfully
+INFO: 2025/03/04 04:55:53 logger.go:45: Successfully connected to database
+2025/03/04 04:55:53 Server running at http://localhost:8080
+INFO: 2025/03/04 04:58:22 logger.go:45: API Key validated
+INFO: 2025/03/04 04:58:22 logger.go:45: Creating database connection
+ERROR: 2025/03/04 05:00:36 logger.go:73: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+2025/03/04 05:08:56 Logging initialized successfully
+INFO: 2025/03/04 05:08:56 logger.go:45: Successfully connected to database
+2025/03/04 05:08:56 Server running at http://localhost:8080
+INFO: 2025/03/04 05:12:44 logger.go:45: API Key validated
+INFO: 2025/03/04 05:12:44 logger.go:45: Creating database connection
+ERROR: 2025/03/04 05:15:00 logger.go:73: Error connecting to database: dial tcp 172.17.0.3:3307: connect: connection timed out
+2025/03/04 05:24:55 Logging initialized successfully
+INFO: 2025/03/04 05:24:55 logger.go:45: Successfully connected to database
+2025/03/04 05:24:55 Server running at http://localhost:8080
+INFO: 2025/03/04 05:25:40 logger.go:45: API Key validated
+INFO: 2025/03/04 05:25:40 logger.go:45: Creating database connection
+2025/03/04 05:27:28 Logging initialized successfully
+INFO: 2025/03/04 05:27:28 logger.go:45: Successfully connected to database
+2025/03/04 05:27:28 Server running at http://localhost:8080
+INFO: 2025/03/04 05:27:37 logger.go:45: API Key validated
+INFO: 2025/03/04 05:27:37 logger.go:45: Creating database connection
+2025/03/04 05:28:38 Logging initialized successfully
+INFO: 2025/03/04 05:28:38 logger.go:45: Successfully connected to database
+2025/03/04 05:28:38 Server running at http://localhost:8080
+INFO: 2025/03/04 05:28:44 logger.go:45: API Key validated
+INFO: 2025/03/04 05:28:44 logger.go:45: Creating database connection
+2025/03/04 05:30:23 Logging initialized successfully
+INFO: 2025/03/04 05:30:23 logger.go:45: Successfully connected to database
+2025/03/04 05:30:23 Server running at http://localhost:8080
+2025/03/04 05:30:48 Logging initialized successfully
+INFO: 2025/03/04 05:30:48 logger.go:45: Successfully connected to database
+2025/03/04 05:30:48 Server running at http://localhost:8080
+INFO: 2025/03/04 05:30:54 logger.go:45: API Key validated
+INFO: 2025/03/04 05:30:54 logger.go:45: Creating database connection
+INFO: 2025/03/04 05:30:54 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 05:30:54 logger.go:59: root:1234@tcp(172.17.0.2:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 05:33:10 logger.go:73: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+2025/03/04 05:33:46 Logging initialized successfully
+INFO: 2025/03/04 05:33:46 logger.go:45: Successfully connected to database
+2025/03/04 05:33:46 Server running at http://localhost:8080
+INFO: 2025/03/04 05:33:53 logger.go:45: API Key validated
+INFO: 2025/03/04 05:33:53 logger.go:45: Creating database connection
+INFO: 2025/03/04 05:33:53 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 05:33:53 logger.go:59: root:1234@tcp(172.17.0.2:3306)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 05:36:06 logger.go:73: Error connecting to database: dial tcp 172.17.0.2:3306: connect: connection timed out
+2025/03/04 11:29:55 Logging initialized successfully
+ERROR: 2025/03/04 11:29:55 logger.go:73: Error connectig to database: dial tcp 172.19.0.2:3306: connect: connection refused
+2025/03/04 11:33:11 Logging initialized successfully
+INFO: 2025/03/04 11:33:11 logger.go:45: Successfully connected to database
+2025/03/04 11:33:11 Server running at http://localhost:8080
+2025/03/04 11:43:33 Logging initialized successfully
+INFO: 2025/03/04 11:43:33 logger.go:45: Successfully connected to database
+2025/03/04 11:43:33 Server running at http://localhost:8080
+INFO: 2025/03/04 11:44:37 logger.go:45: API Key validated
+INFO: 2025/03/04 11:44:37 logger.go:45: Creating database connection
+INFO: 2025/03/04 11:45:39 logger.go:45: API Key validated
+INFO: 2025/03/04 11:45:39 logger.go:45: Creating database connection
+INFO: 2025/03/04 11:45:53 logger.go:45: API Key validated
+INFO: 2025/03/04 11:45:53 logger.go:45: Creating database connection
+INFO: 2025/03/04 11:45:53 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 11:45:53 logger.go:59: root:1234@tcp(172.17.0.2:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 11:48:06 logger.go:73: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+2025/03/04 11:53:10 Logging initialized successfully
+INFO: 2025/03/04 11:53:10 logger.go:45: Successfully connected to database
+2025/03/04 11:53:10 Server running at http://localhost:8080
+INFO: 2025/03/04 11:53:21 logger.go:45: API Key validated
+INFO: 2025/03/04 11:53:21 logger.go:45: Creating database connection
+INFO: 2025/03/04 11:53:21 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 11:53:21 logger.go:59: root:1234@tcp(172.17.0.2:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 11:55:36 logger.go:68: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+ERROR: 2025/03/04 11:55:36 logger.go:68: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+INFO: 2025/03/04 11:56:20 logger.go:45: API Key validated
+INFO: 2025/03/04 11:56:20 logger.go:45: Creating database connection
+INFO: 2025/03/04 11:56:20 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 11:56:20 logger.go:59: root:1234@tcp(172.17.0.2:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 11:58:37 logger.go:68: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+ERROR: 2025/03/04 11:58:37 logger.go:68: Error connecting to database: dial tcp 172.17.0.2:3307: connect: connection timed out
+INFO: 2025/03/04 12:25:46 logger.go:45: API Key validated
+INFO: 2025/03/04 12:25:46 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:25:46 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:25:46 logger.go:59: root:1234@tcp(127.0.0.1:3309)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 12:25:46 logger.go:68: Error connecting to database: dial tcp 127.0.0.1:3309: connect: connection refused
+ERROR: 2025/03/04 12:25:46 logger.go:68: Error connecting to database: dial tcp 127.0.0.1:3309: connect: connection refused
+2025/03/04 12:26:26 Logging initialized successfully
+INFO: 2025/03/04 12:26:26 logger.go:45: Successfully connected to database
+2025/03/04 12:26:26 Server running at http://localhost:8080
+INFO: 2025/03/04 12:26:30 logger.go:45: API Key validated
+INFO: 2025/03/04 12:26:30 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:26:30 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:26:30 logger.go:59: root:1234@tcp(127.0.0.1:3309)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 12:26:30 logger.go:68: Error connecting to database: dial tcp 127.0.0.1:3309: connect: connection refused
+ERROR: 2025/03/04 12:26:30 logger.go:68: Error connecting to database: dial tcp 127.0.0.1:3309: connect: connection refused
+INFO: 2025/03/04 12:36:23 logger.go:45: API Key validated
+INFO: 2025/03/04 12:36:23 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:36:23 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:36:23 logger.go:59: root:1234@tcp(172.17.0.1:3309)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 12:36:23 logger.go:68: Error connecting to database: dial tcp 172.17.0.1:3309: connect: connection refused
+ERROR: 2025/03/04 12:36:23 logger.go:68: Error connecting to database: dial tcp 172.17.0.1:3309: connect: connection refused
+INFO: 2025/03/04 12:39:25 logger.go:45: API Key validated
+INFO: 2025/03/04 12:39:25 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:39:25 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:39:25 logger.go:59: root:1234@tcp(172.17.0.1:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/04 12:41:41 logger.go:68: Error connecting to database: dial tcp 172.17.0.1:3307: connect: connection timed out
+ERROR: 2025/03/04 12:41:41 logger.go:68: Error connecting to database: dial tcp 172.17.0.1:3307: connect: connection timed out
+INFO: 2025/03/04 12:41:52 logger.go:45: API Key validated
+INFO: 2025/03/04 12:41:52 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:41:52 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:41:52 logger.go:59: root:1234@tcp(192.168.20.117:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+INFO: 2025/03/04 12:41:52 logger.go:45: Successfully connected to scan database
+ERROR: 2025/03/04 12:41:52 logger.go:68: Error checking for connection: Error 1054 (42S22): Unknown column 'username' in 'where clause'
+ERROR: 2025/03/04 12:41:52 logger.go:73: Error saving connection: Error 1054 (42S22): Unknown column 'username' in 'where clause'
+2025/03/04 12:42:12 Logging initialized successfully
+INFO: 2025/03/04 12:42:12 logger.go:45: Successfully connected to database
+2025/03/04 12:42:12 Server running at http://localhost:8080
+INFO: 2025/03/04 12:42:22 logger.go:45: API Key validated
+INFO: 2025/03/04 12:42:22 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:42:22 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:42:22 logger.go:59: root:1234@tcp(192.168.20.117:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+INFO: 2025/03/04 12:42:22 logger.go:45: Successfully connected to scan database
+ERROR: 2025/03/04 12:42:22 logger.go:68: Error checking for connection: Error 1054 (42S22): Unknown column 'username' in 'where clause'
+ERROR: 2025/03/04 12:42:22 logger.go:73: Error saving connection: Error 1054 (42S22): Unknown column 'username' in 'where clause'
+2025/03/04 12:48:09 Logging initialized successfully
+INFO: 2025/03/04 12:48:09 logger.go:45: Successfully connected to database
+2025/03/04 12:48:09 Server running at http://localhost:8080
+INFO: 2025/03/04 12:48:19 logger.go:45: API Key validated
+INFO: 2025/03/04 12:48:19 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:48:19 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:48:19 logger.go:59: root:1234@tcp(192.168.20.117:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+INFO: 2025/03/04 12:48:19 logger.go:45: Successfully connected to scan database
+ERROR: 2025/03/04 12:48:19 logger.go:68: Error checking for connection: Error 1054 (42S22): Unknown column 'db_name' in 'where clause'
+ERROR: 2025/03/04 12:48:19 logger.go:73: Error saving connection: Error 1054 (42S22): Unknown column 'db_name' in 'where clause'
+2025/03/04 12:48:43 Logging initialized successfully
+INFO: 2025/03/04 12:48:43 logger.go:45: Successfully connected to database
+2025/03/04 12:48:43 Server running at http://localhost:8080
+INFO: 2025/03/04 12:48:45 logger.go:45: API Key validated
+INFO: 2025/03/04 12:48:45 logger.go:45: Creating database connection
+INFO: 2025/03/04 12:48:45 logger.go:45: Getting scan connection database
+INFO: 2025/03/04 12:48:45 logger.go:59: root:1234@tcp(192.168.20.117:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+INFO: 2025/03/04 12:48:45 logger.go:45: Successfully connected to scan database
+INFO: 2025/03/04 12:48:45 logger.go:59: Connection created with ID: [1]
+2025/03/05 00:07:16 Logging initialized successfully
+INFO: 2025/03/05 00:07:16 logger.go:45: Successfully connected to database
+2025/03/05 00:07:16 Server running at http://localhost:8080
+INFO: 2025/03/05 00:15:07 logger.go:45: API Key validated
+INFO: 2025/03/05 00:15:07 logger.go:45: Creating database connection
+INFO: 2025/03/05 00:15:07 logger.go:45: Getting scan connection database
+INFO: 2025/03/05 00:15:07 logger.go:59: root:1234@tcp(192.168.20.117:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+INFO: 2025/03/05 00:15:07 logger.go:45: Successfully connected to scan database
+INFO: 2025/03/05 00:15:07 logger.go:45: Connection already exists
+INFO: 2025/03/05 00:15:07 logger.go:59: Connection created with ID: [1]
+2025/03/05 00:19:26 Logging initialized successfully
+INFO: 2025/03/05 00:19:26 logger.go:45: Successfully connected to database
+2025/03/05 00:19:26 Server running at http://localhost:8080
+2025/03/05 00:20:02 Logging initialized successfully
+INFO: 2025/03/05 00:20:02 logger.go:45: Successfully connected to database
+2025/03/05 00:20:02 Server running at http://localhost:8080
+2025/03/05 00:20:15 Logging initialized successfully
+INFO: 2025/03/05 00:20:15 logger.go:45: Successfully connected to database
+2025/03/05 00:20:15 Server running at http://localhost:8080
+2025/03/05 00:21:00 Logging initialized successfully
+INFO: 2025/03/05 00:21:00 logger.go:45: Successfully connected to database
+2025/03/05 00:21:00 Server running at http://localhost:8080
+2025/03/05 00:21:27 Logging initialized successfully
+INFO: 2025/03/05 00:21:27 logger.go:45: Successfully connected to database
+2025/03/05 00:21:27 Server running at http://localhost:8080
+2025/03/05 00:21:41 Logging initialized successfully
+INFO: 2025/03/05 00:21:41 logger.go:45: Successfully connected to database
+2025/03/05 00:21:41 Server running at http://localhost:8080
+2025/03/05 00:21:53 Logging initialized successfully
+INFO: 2025/03/05 00:21:53 logger.go:45: Successfully connected to database
+2025/03/05 00:21:53 Server running at http://localhost:8080
+2025/03/05 00:21:56 Logging initialized successfully
+INFO: 2025/03/05 00:21:56 logger.go:45: Successfully connected to database
+2025/03/05 00:21:56 Server running at http://localhost:8080
+2025/03/05 00:22:51 Logging initialized successfully
+INFO: 2025/03/05 00:22:51 logger.go:45: Successfully connected to database
+2025/03/05 00:22:51 Server running at http://localhost:8080
+2025/03/05 00:23:34 Logging initialized successfully
+INFO: 2025/03/05 00:23:34 logger.go:45: Successfully connected to database
+2025/03/05 00:23:34 Server running at http://localhost:8080
+2025/03/05 00:24:28 Logging initialized successfully
+INFO: 2025/03/05 00:24:28 logger.go:45: Successfully connected to database
+2025/03/05 00:24:28 Server running at http://localhost:8080
+2025/03/05 00:25:03 Logging initialized successfully
+INFO: 2025/03/05 00:25:03 logger.go:45: Successfully connected to database
+2025/03/05 00:25:03 Server running at http://localhost:8080
+2025/03/05 00:25:50 Logging initialized successfully
+INFO: 2025/03/05 00:25:50 logger.go:45: Successfully connected to database
+2025/03/05 00:25:50 Server running at http://localhost:8080
+2025/03/05 00:26:03 Logging initialized successfully
+INFO: 2025/03/05 00:26:03 logger.go:45: Successfully connected to database
+2025/03/05 00:26:03 Server running at http://localhost:8080
+2025/03/05 00:26:21 Logging initialized successfully
+INFO: 2025/03/05 00:26:21 logger.go:45: Successfully connected to database
+2025/03/05 00:26:21 Server running at http://localhost:8080
+2025/03/05 00:28:10 Logging initialized successfully
+INFO: 2025/03/05 00:28:10 logger.go:45: Successfully connected to database
+2025/03/05 00:28:10 Server running at http://localhost:8080
+2025/03/05 00:28:13 Logging initialized successfully
+INFO: 2025/03/05 00:28:13 logger.go:45: Successfully connected to database
+2025/03/05 00:28:13 Server running at http://localhost:8080
+INFO: 2025/03/05 00:32:23 logger.go:45: API Key validated
+INFO: 2025/03/05 00:32:46 logger.go:45: API Key validated
+INFO: 2025/03/05 00:32:46 logger.go:45: Creating database connection
+INFO: 2025/03/05 00:32:46 logger.go:45: Getting scan connection database
+INFO: 2025/03/05 00:32:46 logger.go:59: :@tcp(:0)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/05 00:32:46 logger.go:68: Error connecting to database: dial tcp :0: connect: connection refused
+ERROR: 2025/03/05 00:32:46 logger.go:68: Error connecting to database: dial tcp :0: connect: connection refused
+2025/03/05 00:34:57 Logging initialized successfully
+INFO: 2025/03/05 00:34:57 logger.go:45: Successfully connected to database
+2025/03/05 00:34:57 Server running at http://localhost:8080
+2025/03/05 00:38:54 Logging initialized successfully
+INFO: 2025/03/05 00:38:55 logger.go:45: Successfully connected to database
+2025/03/05 00:38:55 Server running at http://localhost:8080
+2025/03/05 00:40:15 Logging initialized successfully
+INFO: 2025/03/05 00:40:15 logger.go:45: Successfully connected to database
+2025/03/05 00:40:15 Server running at http://localhost:8080
+2025/03/05 00:40:30 Logging initialized successfully
+INFO: 2025/03/05 00:40:30 logger.go:45: Successfully connected to database
+2025/03/05 00:40:30 Server running at http://localhost:8080
+2025/03/05 00:41:24 Logging initialized successfully
+INFO: 2025/03/05 00:41:24 logger.go:45: Successfully connected to database
+2025/03/05 00:41:24 Server running at http://localhost:8080
+2025/03/05 00:42:19 Logging initialized successfully
+INFO: 2025/03/05 00:42:19 logger.go:45: Successfully connected to database
+2025/03/05 00:42:19 Server running at http://localhost:8080
+2025/03/05 00:42:46 Logging initialized successfully
+INFO: 2025/03/05 00:42:46 logger.go:45: Successfully connected to database
+2025/03/05 00:42:46 Server running at http://localhost:8080
+2025/03/05 00:43:05 Logging initialized successfully
+INFO: 2025/03/05 00:43:05 logger.go:45: Successfully connected to database
+2025/03/05 00:43:05 Server running at http://localhost:8080
+2025/03/05 00:48:01 Logging initialized successfully
+INFO: 2025/03/05 00:48:01 logger.go:45: Successfully connected to database
+2025/03/05 00:48:01 Server running at http://localhost:8080
+2025/03/05 00:49:50 Logging initialized successfully
+INFO: 2025/03/05 00:49:50 logger.go:54: mysql_client.go:40 Successfully connected to database
+2025/03/05 00:49:50 Server running at http://localhost:8080
+2025/03/05 00:50:10 Logging initialized successfully
+INFO: 2025/03/05 00:50:10 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:50:10 Server running at http://localhost:8080
+2025/03/05 00:51:06 Logging initialized successfully
+INFO: 2025/03/05 00:51:06 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:51:06 Server running at http://localhost:8080
+2025/03/05 00:51:13 Logging initialized successfully
+INFO: 2025/03/05 00:51:13 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:51:13 Server running at http://localhost:8080
+2025/03/05 00:51:44 Logging initialized successfully
+INFO: 2025/03/05 00:51:44 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:51:44 Server running at http://localhost:8080
+2025/03/05 00:51:48 Logging initialized successfully
+INFO: 2025/03/05 00:51:48 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:51:48 Server running at http://localhost:8080
+2025/03/05 00:51:57 Logging initialized successfully
+INFO: 2025/03/05 00:51:57 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:51:57 Server running at http://localhost:8080
+INFO: 2025/03/05 00:52:06 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 00:52:06 service_controller.go:30 Creating database connection
+INFO: 2025/03/05 00:52:06 database_connection_service.go:19 Getting scan connection database
+INFO: 2025/03/05 00:52:06 database_connection_repo.go:16 :@tcp(:0)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/05 00:52:06 database_connection_repo.go:21 Error connecting to database: dial tcp :0: connect: connection refused
+ERROR: 2025/03/05 00:52:06 database_connection_service.go:22 Error connecting to database: dial tcp :0: connect: connection refused
+2025/03/05 00:52:49 Logging initialized successfully
+INFO: 2025/03/05 00:52:49 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:52:49 Server running at http://localhost:8080
+INFO: 2025/03/05 00:53:11 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 00:53:24 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 00:54:42 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 00:54:55 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 00:54:55 classification_service.go:34 Scanning database
+INFO: 2025/03/05 00:54:55 classification_service.go:41 root:1234@tcp(192.168.20.117:3307)/employees?charset=utf8mb4&parseTime=True&loc=Local
+2025/03/05 00:54:55 Analyzing table: current_dept_emp
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: dept_no → N/A
+2025/03/05 00:54:55    - Column: from_date → N/A
+2025/03/05 00:54:55    - Column: to_date → N/A
+2025/03/05 00:54:55 Analyzing table: departments
+2025/03/05 00:54:55    - Column: dept_no → N/A
+2025/03/05 00:54:55    - Column: dept_name → N/A
+2025/03/05 00:54:55 Analyzing table: dept_emp
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: dept_no → N/A
+2025/03/05 00:54:55    - Column: from_date → N/A
+2025/03/05 00:54:55    - Column: to_date → N/A
+2025/03/05 00:54:55 Analyzing table: dept_emp_latest_date
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: from_date → N/A
+2025/03/05 00:54:55    - Column: to_date → N/A
+2025/03/05 00:54:55 Analyzing table: dept_manager
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: dept_no → N/A
+2025/03/05 00:54:55    - Column: from_date → N/A
+2025/03/05 00:54:55    - Column: to_date → N/A
+2025/03/05 00:54:55 Analyzing table: employees
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: birth_date → N/A
+2025/03/05 00:54:55    - Column: first_name → FIRST_NAME
+2025/03/05 00:54:55    - Column: last_name → LAST_NAME
+2025/03/05 00:54:55    - Column: gender → N/A
+2025/03/05 00:54:55    - Column: hire_date → N/A
+2025/03/05 00:54:55 Analyzing table: salaries
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: salary → N/A
+2025/03/05 00:54:55    - Column: from_date → N/A
+2025/03/05 00:54:55    - Column: to_date → N/A
+2025/03/05 00:54:55 Analyzing table: titles
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: title → N/A
+2025/03/05 00:54:55    - Column: from_date → N/A
+2025/03/05 00:54:55    - Column: to_date → N/A
+2025/03/05 00:54:55 Analyzing table: v_full_departments
+2025/03/05 00:54:55    - Column: dept_no → N/A
+2025/03/05 00:54:55    - Column: dept_name → N/A
+2025/03/05 00:54:55    - Column: manager → N/A
+2025/03/05 00:54:55 Analyzing table: v_full_employees
+2025/03/05 00:54:55    - Column: emp_no → N/A
+2025/03/05 00:54:55    - Column: first_name → FIRST_NAME
+2025/03/05 00:54:55    - Column: last_name → LAST_NAME
+2025/03/05 00:54:55    - Column: birth_date → N/A
+2025/03/05 00:54:55    - Column: gender → N/A
+2025/03/05 00:54:55    - Column: hire_date → N/A
+2025/03/05 00:54:55    - Column: department → N/A
+INFO: 2025/03/05 00:54:55 classification_service.go:91 Scan completed
+2025/03/05 00:58:54 Logging initialized successfully
+INFO: 2025/03/05 00:58:54 mysql_client.go:40 Successfully connected to database
+2025/03/05 00:58:54 Server running at http://localhost:8080
+INFO: 2025/03/05 01:00:05 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 01:00:05 classification_service.go:34 Scanning database
+2025/03/05 01:00:05 Analyzing table: current_dept_emp
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: dept_no → N/A
+2025/03/05 01:00:05    - Column: from_date → N/A
+2025/03/05 01:00:05    - Column: to_date → N/A
+2025/03/05 01:00:05 Analyzing table: departments
+2025/03/05 01:00:05    - Column: dept_no → N/A
+2025/03/05 01:00:05    - Column: dept_name → N/A
+2025/03/05 01:00:05 Analyzing table: dept_emp
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: dept_no → N/A
+2025/03/05 01:00:05    - Column: from_date → N/A
+2025/03/05 01:00:05    - Column: to_date → N/A
+2025/03/05 01:00:05 Analyzing table: dept_emp_latest_date
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: from_date → N/A
+2025/03/05 01:00:05    - Column: to_date → N/A
+2025/03/05 01:00:05 Analyzing table: dept_manager
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: dept_no → N/A
+2025/03/05 01:00:05    - Column: from_date → N/A
+2025/03/05 01:00:05    - Column: to_date → N/A
+2025/03/05 01:00:05 Analyzing table: employees
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: birth_date → N/A
+2025/03/05 01:00:05    - Column: first_name → FIRST_NAME
+2025/03/05 01:00:05    - Column: last_name → LAST_NAME
+2025/03/05 01:00:05    - Column: gender → N/A
+2025/03/05 01:00:05    - Column: hire_date → N/A
+2025/03/05 01:00:05 Analyzing table: salaries
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: salary → N/A
+2025/03/05 01:00:05    - Column: from_date → N/A
+2025/03/05 01:00:05    - Column: to_date → N/A
+2025/03/05 01:00:05 Analyzing table: titles
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: title → N/A
+2025/03/05 01:00:05    - Column: from_date → N/A
+2025/03/05 01:00:05    - Column: to_date → N/A
+2025/03/05 01:00:05 Analyzing table: v_full_departments
+2025/03/05 01:00:05    - Column: dept_no → N/A
+2025/03/05 01:00:05    - Column: dept_name → N/A
+2025/03/05 01:00:05    - Column: manager → N/A
+2025/03/05 01:00:05 Analyzing table: v_full_employees
+2025/03/05 01:00:05    - Column: emp_no → N/A
+2025/03/05 01:00:05    - Column: first_name → FIRST_NAME
+2025/03/05 01:00:05    - Column: last_name → LAST_NAME
+2025/03/05 01:00:05    - Column: birth_date → N/A
+2025/03/05 01:00:05    - Column: gender → N/A
+2025/03/05 01:00:05    - Column: hire_date → N/A
+2025/03/05 01:00:05    - Column: department → N/A
+INFO: 2025/03/05 01:00:05 classification_service.go:88 Scan completed
+INFO: 2025/03/05 01:00:20 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 01:02:46 auth_middleware.go:29 API Key validated
+2025/03/05 01:09:13 Logging initialized successfully
+INFO: 2025/03/05 01:09:13 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:09:13 Server running at http://localhost:8080
+2025/03/05 01:12:08 Logging initialized successfully
+INFO: 2025/03/05 01:12:08 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:12:08 Server running at http://localhost:8080
+INFO: 2025/03/05 01:12:40 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 01:12:40 service_controller.go:30 Creating database connection
+INFO: 2025/03/05 01:12:40 database_connection_service.go:19 Getting scan connection database
+INFO: 2025/03/05 01:12:40 database_connection_repo.go:17 :@tcp(:0)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/05 01:12:40 database_connection_repo.go:22 Error connecting to database: dial tcp :0: connect: connection refused
+ERROR: 2025/03/05 01:12:40 database_connection_service.go:22 Error connecting to database: dial tcp :0: connect: connection refused
+INFO: 2025/03/05 01:13:46 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 01:14:25 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 01:14:25 classification_service.go:35 Scanning database
+2025/03/05 01:14:25 Analyzing table: current_dept_emp
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: dept_no → DEPARTMENT
+2025/03/05 01:14:25    - Column: from_date → DATE
+2025/03/05 01:14:25    - Column: to_date → DATE
+2025/03/05 01:14:25 Analyzing table: departments
+2025/03/05 01:14:25    - Column: dept_no → DEPARTMENT
+2025/03/05 01:14:25    - Column: dept_name → DEPARTMENT
+2025/03/05 01:14:25 Analyzing table: dept_emp
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: dept_no → DEPARTMENT
+2025/03/05 01:14:25    - Column: from_date → DATE
+2025/03/05 01:14:25    - Column: to_date → DATE
+2025/03/05 01:14:25 Analyzing table: dept_emp_latest_date
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: from_date → DATE
+2025/03/05 01:14:25    - Column: to_date → DATE
+2025/03/05 01:14:25 Analyzing table: dept_manager
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: dept_no → DEPARTMENT
+2025/03/05 01:14:25    - Column: from_date → DATE
+2025/03/05 01:14:25    - Column: to_date → DATE
+2025/03/05 01:14:25 Analyzing table: employees
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: birth_date → DATE
+2025/03/05 01:14:25    - Column: first_name → FIRST_NAME
+2025/03/05 01:14:25    - Column: last_name → LAST_NAME
+2025/03/05 01:14:25    - Column: gender → GENDER
+2025/03/05 01:14:25    - Column: hire_date → DATE
+2025/03/05 01:14:25 Analyzing table: salaries
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: salary → N/A
+2025/03/05 01:14:25    - Column: from_date → DATE
+2025/03/05 01:14:25    - Column: to_date → DATE
+2025/03/05 01:14:25 Analyzing table: titles
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: title → N/A
+2025/03/05 01:14:25    - Column: from_date → DATE
+2025/03/05 01:14:25    - Column: to_date → DATE
+2025/03/05 01:14:25 Analyzing table: v_full_departments
+2025/03/05 01:14:25    - Column: dept_no → DEPARTMENT
+2025/03/05 01:14:25    - Column: dept_name → DEPARTMENT
+2025/03/05 01:14:25    - Column: manager → N/A
+2025/03/05 01:14:25 Analyzing table: v_full_employees
+2025/03/05 01:14:25    - Column: emp_no → EMPLOYEE
+2025/03/05 01:14:25    - Column: first_name → FIRST_NAME
+2025/03/05 01:14:25    - Column: last_name → LAST_NAME
+2025/03/05 01:14:25    - Column: birth_date → DATE
+2025/03/05 01:14:26    - Column: gender → GENDER
+2025/03/05 01:14:26    - Column: hire_date → DATE
+2025/03/05 01:14:26    - Column: department → N/A
+INFO: 2025/03/05 01:14:26 classification_service.go:89 Scan completed
+INFO: 2025/03/05 01:15:45 auth_middleware.go:29 API Key validated
+2025/03/05 01:17:41 Logging initialized successfully
+INFO: 2025/03/05 01:17:41 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:17:41 Server running at http://localhost:8080
+2025/03/05 01:18:19 Logging initialized successfully
+INFO: 2025/03/05 01:18:19 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:18:19 Server running at http://localhost:8080
+2025/03/05 01:21:33 Logging initialized successfully
+INFO: 2025/03/05 01:21:33 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:21:33 Server running at http://localhost:8080
+INFO: 2025/03/05 01:21:39 html_controller.go:72 Rendering scan report
+2025/03/05 01:23:47 Logging initialized successfully
+INFO: 2025/03/05 01:23:47 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:23:47 Server running at http://localhost:8080
+INFO: 2025/03/05 01:23:47 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 01:23:47 html_controller.go:135 Scan report rendered successfully
+INFO: 2025/03/05 01:27:00 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 01:27:00 html_controller.go:135 Scan report rendered successfully
+INFO: 2025/03/05 01:29:59 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 01:29:59 html_controller.go:135 Scan report rendered successfully
+2025/03/05 01:33:52 Logging initialized successfully
+INFO: 2025/03/05 01:33:52 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:33:52 Server running at http://localhost:8080
+INFO: 2025/03/05 01:33:54 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 01:33:54 html_controller.go:135 Scan report rendered successfully
+2025/03/05 01:34:35 Logging initialized successfully
+INFO: 2025/03/05 01:34:35 mysql_client.go:40 Successfully connected to database
+2025/03/05 01:34:35 Server running at http://localhost:8080
+INFO: 2025/03/05 01:34:37 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 01:34:37 html_controller.go:135 Scan report rendered successfully
+2025/03/05 04:16:09 Logging initialized successfully
+INFO: 2025/03/05 04:16:09 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:16:09 Server running at http://localhost:8080
+INFO: 2025/03/05 04:20:57 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:20:57 html_controller.go:136 Scan report rendered successfully
+2025/03/05 04:27:08 Logging initialized successfully
+INFO: 2025/03/05 04:27:08 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:27:08 Server running at http://localhost:8080
+2025/03/05 04:29:11 Logging initialized successfully
+INFO: 2025/03/05 04:29:11 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:29:11 Server running at http://localhost:8080
+2025/03/05 04:32:09 Logging initialized successfully
+INFO: 2025/03/05 04:32:09 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:32:09 Server running at http://localhost:8080
+INFO: 2025/03/05 04:32:16 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:32:16 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:32:51 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:32:51 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:32:53 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:32:53 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:32:53 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:32:53 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:00 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:00 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:01 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:01 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:01 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:01 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:02 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:02 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:02 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:02 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:02 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:02 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:03 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:03 html_controller.go:136 Scan report rendered successfully
+2025/03/05 04:34:29 Logging initialized successfully
+INFO: 2025/03/05 04:34:29 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:34:29 Server running at http://localhost:8080
+INFO: 2025/03/05 04:34:35 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:35 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:34:36 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:34:36 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:35:33 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:35:33 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:35:34 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:35:34 html_controller.go:136 Scan report rendered successfully
+2025/03/05 04:36:17 Logging initialized successfully
+INFO: 2025/03/05 04:36:17 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:36:17 Server running at http://localhost:8080
+INFO: 2025/03/05 04:36:21 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:36:21 html_controller.go:136 Scan report rendered successfully
+2025/03/05 04:36:51 Logging initialized successfully
+INFO: 2025/03/05 04:36:51 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:36:51 Server running at http://localhost:8080
+2025/03/05 04:40:42 Logging initialized successfully
+INFO: 2025/03/05 04:40:42 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:40:42 Server running at http://localhost:8080
+INFO: 2025/03/05 04:40:44 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:40:44 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:41:05 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:41:05 html_controller.go:136 Scan report rendered successfully
+INFO: 2025/03/05 04:41:56 html_controller.go:72 Rendering scan report
+INFO: 2025/03/05 04:41:56 html_controller.go:136 Scan report rendered successfully
+2025/03/05 04:42:11 Logging initialized successfully
+INFO: 2025/03/05 04:42:11 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:42:11 Server running at http://localhost:8080
+INFO: 2025/03/05 04:42:12 html_controller.go:70 Rendering scan report
+INFO: 2025/03/05 04:42:12 html_controller.go:133 Scan report rendered successfully
+2025/03/05 04:42:54 Logging initialized successfully
+INFO: 2025/03/05 04:42:54 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:42:54 Server running at http://localhost:8080
+INFO: 2025/03/05 04:42:55 html_controller.go:69 Rendering scan report
+2025/03/05 04:43:21 Logging initialized successfully
+INFO: 2025/03/05 04:43:21 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:43:21 Server running at http://localhost:8080
+2025/03/05 04:43:51 Logging initialized successfully
+INFO: 2025/03/05 04:43:51 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:43:51 Server running at http://localhost:8080
+2025/03/05 04:44:01 Logging initialized successfully
+INFO: 2025/03/05 04:44:01 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:44:01 Server running at http://localhost:8080
+2025/03/05 04:44:16 Logging initialized successfully
+INFO: 2025/03/05 04:44:16 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:44:16 Server running at http://localhost:8080
+2025/03/05 04:44:26 Logging initialized successfully
+INFO: 2025/03/05 04:44:26 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:44:26 Server running at http://localhost:8080
+INFO: 2025/03/05 04:44:28 html_controller.go:66 Rendering scan report
+INFO: 2025/03/05 04:45:20 html_controller.go:66 Rendering scan report
+INFO: 2025/03/05 04:45:20 html_controller.go:127 Scan report rendered successfully
+2025/03/05 04:47:34 Logging initialized successfully
+INFO: 2025/03/05 04:47:34 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:47:34 Server running at http://localhost:8080
+2025/03/05 04:50:04 Logging initialized successfully
+INFO: 2025/03/05 04:50:04 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:50:04 Server running at http://localhost:8080
+INFO: 2025/03/05 04:50:31 html_controller.go:53 Rendering scan report
+INFO: 2025/03/05 04:51:48 html_controller.go:53 Rendering scan report
+INFO: 2025/03/05 04:51:48 html_controller.go:102 Scan report rendered successfully
+2025/03/05 04:58:37 Logging initialized successfully
+INFO: 2025/03/05 04:58:37 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:58:37 Server running at http://localhost:8080
+2025/03/05 04:58:51 Logging initialized successfully
+INFO: 2025/03/05 04:58:51 mysql_client.go:40 Successfully connected to database
+2025/03/05 04:58:51 Server running at http://localhost:8080
+2025/03/05 05:04:36 Logging initialized successfully
+INFO: 2025/03/05 05:04:36 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:04:36 Server running at http://localhost:8080
+2025/03/05 05:05:40 Logging initialized successfully
+INFO: 2025/03/05 05:05:40 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:05:40 Server running at http://localhost:8080
+2025/03/05 05:06:34 Logging initialized successfully
+INFO: 2025/03/05 05:06:34 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:06:34 Server running at http://localhost:8080
+2025/03/05 05:07:03 Logging initialized successfully
+INFO: 2025/03/05 05:07:03 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:07:03 Server running at http://localhost:8080
+2025/03/05 05:07:29 Logging initialized successfully
+INFO: 2025/03/05 05:07:29 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:07:29 Server running at http://localhost:8080
+2025/03/05 05:08:06 Logging initialized successfully
+INFO: 2025/03/05 05:08:06 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:08:06 Server running at http://localhost:8080
+2025/03/05 05:10:02 Logging initialized successfully
+INFO: 2025/03/05 05:10:02 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:10:02 Server running at http://localhost:8080
+2025/03/05 05:11:51 Logging initialized successfully
+INFO: 2025/03/05 05:11:51 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:11:51 Server running at http://localhost:8080
+INFO: 2025/03/05 05:11:55 html_controller.go:23 Rendering scan report
+2025/03/05 05:13:06 Logging initialized successfully
+INFO: 2025/03/05 05:13:06 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:13:06 Server running at http://localhost:8080
+INFO: 2025/03/05 05:13:12 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:13:12 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 05:16:05 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:16:05 html_controller.go:50 Scan report rendered successfully
+2025/03/05 05:18:17 Logging initialized successfully
+INFO: 2025/03/05 05:18:17 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:18:17 Server running at http://localhost:8080
+2025/03/05 05:18:24 Logging initialized successfully
+INFO: 2025/03/05 05:18:24 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:18:24 Server running at http://localhost:8080
+2025/03/05 05:18:25 Logging initialized successfully
+INFO: 2025/03/05 05:18:25 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:18:25 Server running at http://localhost:8080
+INFO: 2025/03/05 05:21:39 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:21:39 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 05:23:27 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:23:27 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 05:24:12 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:24:12 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 05:25:17 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:25:17 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 05:25:18 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:25:18 html_controller.go:50 Scan report rendered successfully
+2025/03/05 05:26:10 Logging initialized successfully
+INFO: 2025/03/05 05:26:10 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:26:10 Server running at http://localhost:8080
+INFO: 2025/03/05 05:26:22 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:26:22 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 05:27:19 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:27:19 html_controller.go:50 Scan report rendered successfully
+2025/03/05 05:28:10 Logging initialized successfully
+INFO: 2025/03/05 05:28:10 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:28:10 Server running at http://localhost:8080
+INFO: 2025/03/05 05:28:14 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:28:14 html_controller.go:50 Scan report rendered successfully
+2025/03/05 05:29:22 Logging initialized successfully
+INFO: 2025/03/05 05:29:22 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:29:22 Server running at http://localhost:8080
+2025/03/05 05:29:24 Logging initialized successfully
+INFO: 2025/03/05 05:29:24 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:29:24 Server running at http://localhost:8080
+2025/03/05 05:33:17 Logging initialized successfully
+INFO: 2025/03/05 05:33:17 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:33:17 Server running at http://localhost:8080
+2025/03/05 05:33:30 Logging initialized successfully
+INFO: 2025/03/05 05:33:30 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:33:30 Server running at http://localhost:8080
+2025/03/05 05:33:41 Logging initialized successfully
+INFO: 2025/03/05 05:33:41 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:33:41 Server running at http://localhost:8080
+2025/03/05 05:34:34 Logging initialized successfully
+INFO: 2025/03/05 05:34:34 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:34:34 Server running at http://localhost:8080
+INFO: 2025/03/05 05:34:35 html_controller.go:23 Rendering scan report
+ERROR: 2025/03/05 05:34:35 html_controller.go:35 Failed to get scan report data unsupported data type: 0xc0002bab10: Table not set, please set it like: db.Model(&user) or db.Table("users")
+
+2025/03/05 05:35:33 Logging initialized successfully
+INFO: 2025/03/05 05:35:33 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:35:33 Server running at http://localhost:8080
+INFO: 2025/03/05 05:35:37 html_controller.go:23 Rendering scan report
+ERROR: 2025/03/05 05:35:37 html_controller.go:35 Failed to get scan report data unsupported data type: 0xc000237600: Table not set, please set it like: db.Model(&user) or db.Table("users")
+
+2025/03/05 05:37:45 Logging initialized successfully
+INFO: 2025/03/05 05:37:45 mysql_client.go:40 Successfully connected to database
+2025/03/05 05:37:45 Server running at http://localhost:8080
+INFO: 2025/03/05 05:37:48 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 05:37:48 html_controller.go:50 Scan report rendered successfully
+2025/03/05 14:12:05 Logging initialized successfully
+INFO: 2025/03/05 14:12:05 mysql_client.go:40 Successfully connected to database
+2025/03/05 14:12:05 Server running at http://localhost:8080
+INFO: 2025/03/05 14:22:16 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:22:16 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:22:16 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:22:16 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:22:31 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:22:31 html_controller.go:50 Scan report rendered successfully
+2025/03/05 14:22:57 Logging initialized successfully
+INFO: 2025/03/05 14:22:57 mysql_client.go:40 Successfully connected to database
+2025/03/05 14:22:57 Server running at http://localhost:8080
+INFO: 2025/03/05 14:23:00 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:23:00 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:18 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:18 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:18 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:21 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:21 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:21 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:27 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:27 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:27 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:28 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:28 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:28 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:28 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:28 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:28 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:28 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:24:28 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:24:28 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:25:02 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:25:02 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:25:02 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:26:00 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:26:00 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:26:00 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:26:34 html_controller.go:23 Rendering scan report
+2025/03/05 14:28:46 Logging initialized successfully
+INFO: 2025/03/05 14:28:46 mysql_client.go:40 Successfully connected to database
+2025/03/05 14:28:46 Server running at http://localhost:8080
+2025/03/05 14:28:47 Logging initialized successfully
+INFO: 2025/03/05 14:28:47 mysql_client.go:40 Successfully connected to database
+2025/03/05 14:28:47 Server running at http://localhost:8080
+INFO: 2025/03/05 14:38:51 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:38:51 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:38:51 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:38:51 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:38:53 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:38:53 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:38:53 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:39:06 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:39:06 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:39:07 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:44:34 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:44:34 html_controller.go:50 Scan report rendered successfully
+2025/03/05 14:45:10 Logging initialized successfully
+INFO: 2025/03/05 14:45:10 mysql_client.go:40 Successfully connected to database
+2025/03/05 14:45:10 Server running at http://localhost:8080
+2025/03/05 14:56:09 Logging initialized successfully
+INFO: 2025/03/05 14:56:09 mysql_client.go:40 Successfully connected to database
+2025/03/05 14:56:09 Server running at http://localhost:8080
+INFO: 2025/03/05 14:56:23 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:56:23 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 14:56:24 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 14:56:24 html_controller.go:50 Scan report rendered successfully
+WARNING: 2025/03/05 15:00:46 auth.go:34 API Key already exists
+WARNING: 2025/03/05 15:01:06 auth.go:34 API Key already exists
+INFO: 2025/03/05 15:17:21 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 15:17:21 service_controller.go:30 Creating database connection
+INFO: 2025/03/05 15:17:21 database_connection_service.go:19 Getting scan connection database
+INFO: 2025/03/05 15:17:21 database_connection_repo.go:17 root:1234@tcp(192.168.20.11:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/05 15:17:24 database_connection_repo.go:22 Error connecting to database: dial tcp 192.168.20.11:3307: connect: connection refused
+ERROR: 2025/03/05 15:17:24 database_connection_service.go:22 Error connecting to database: dial tcp 192.168.20.11:3307: connect: connection refused
+2025/03/05 15:17:53 Logging initialized successfully
+INFO: 2025/03/05 15:17:53 mysql_client.go:40 Successfully connected to database
+2025/03/05 15:17:53 Server running at http://localhost:8080
+INFO: 2025/03/05 15:17:58 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 15:17:58 html_controller.go:50 Scan report rendered successfully
+INFO: 2025/03/05 15:18:10 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 15:18:10 service_controller.go:30 Creating database connection
+INFO: 2025/03/05 15:18:10 database_connection_service.go:19 Getting scan connection database
+INFO: 2025/03/05 15:18:10 database_connection_repo.go:17 root:1234@tcp(192.168.20.11:3307)/?charset=utf8mb4&parseTime=True&loc=Local
+ERROR: 2025/03/05 15:18:13 database_connection_repo.go:22 Error connecting to database: dial tcp 192.168.20.11:3307: connect: connection refused
+ERROR: 2025/03/05 15:18:13 database_connection_service.go:22 Error connecting to database: dial tcp 192.168.20.11:3307: connect: connection refused
+INFO: 2025/03/05 15:21:44 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 15:21:44 classification_service.go:35 Scanning database
+ERROR: 2025/03/05 15:21:44 database_connection_repo.go:95 connection with ID 3 not found
+INFO: 2025/03/05 15:22:47 html_controller.go:23 Rendering scan report
+ERROR: 2025/03/05 15:22:47 html_controller.go:35 Failed to get scan report data record not found
+
+INFO: 2025/03/05 15:24:14 auth_middleware.go:29 API Key validated
+INFO: 2025/03/05 15:24:14 get_scan_info_service.go:39 Getting scan results
+ERROR: 2025/03/05 15:24:14 database_connection_repo.go:95 connection with ID 3 not found

@@ -1,0 +1,27 @@
+services:
+  mysql-classificationdb:
+    image: mysql:9.2
+    container_name: mysqldb-class-container
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+    volumes:
+      - mysql-classification:/var/lib/mysql
+      - ./appdb/sql/:/docker-entrypoint-initdb.d/
+    ports:
+      - "3306:3306"
+
+  go-classificator:
+    build:
+      context: ./GoClassificator
+      dockerfile: Dockerfile
+    container_name: go-classificator
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./GoClassificator:/app
+      - /app/tmp
+    depends_on:
+      - mysql-classificationdb    
+
+volumes:
+  mysql-classification:
