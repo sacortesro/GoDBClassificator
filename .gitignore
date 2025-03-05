@@ -16,4 +16,4 @@ docker_mysql_command
 /GoClassificator/.air.toml 
 
 # log
-/GoClassificator/logs/
+/GoClassificator/logs/*
