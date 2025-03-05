@@ -836,3 +836,8 @@ ERROR: 2025/03/05 15:22:47 html_controller.go:35 Failed to get scan report data 
 INFO: 2025/03/05 15:24:14 auth_middleware.go:29 API Key validated
 INFO: 2025/03/05 15:24:14 get_scan_info_service.go:39 Getting scan results
 ERROR: 2025/03/05 15:24:14 database_connection_repo.go:95 connection with ID 3 not found
+2025/03/05 18:22:12 Logging initialized successfully
+INFO: 2025/03/05 18:22:12 mysql_client.go:40 Successfully connected to database
+2025/03/05 18:22:12 Server running at http://localhost:8080
+INFO: 2025/03/05 18:22:32 html_controller.go:23 Rendering scan report
+INFO: 2025/03/05 18:22:32 html_controller.go:50 Scan report rendered successfully

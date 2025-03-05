@@ -23,8 +23,16 @@ cd GoClassificator
 1. **Run the Docker compose**:
 
 ```sh
-docker-compose -f docker-compose-mysql.yml up --build
+docker compose -f docker-compose-mysql.yml up --build -d
 ```
+
+  * **go-classificator stopped**:
+
+  Application container may stop. It occurs because can't stablish the database connection. Start manually the container.
+
+  ```sh
+    docker start go-classificator
+  ```
 
 2. **Build and Run the Docker of the test DB**:
 

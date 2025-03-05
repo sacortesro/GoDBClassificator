@@ -14,3 +14,6 @@ docker_mysql_command
 # Used for development
 /GoClassificator/Dockerfile.int 
 /GoClassificator/.air.toml 
+
+# log
+/GoClassificator/logs/
