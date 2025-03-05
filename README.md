@@ -14,7 +14,7 @@ GoClassificator is a web application that allows you to manage MySQL database co
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/GoClassificator.git
+git clone https://github.com/sacortesro/GoClassificator.git
 cd GoClassificator
 ```
 
@@ -147,7 +147,7 @@ project-root/
 ├─── main.go           		
 ├── internal/                 
 │   ├── api/                  
-│   │   ├── auth/		    # Contiente la lógica para autenticación
+│   │   ├── auth/		        # Contiente la lógica para autenticación
 │   │   ├── controllers/    # Controlador de las rutas   
 │   │   ├── middleware/     # Middleware para autenticación  
 │   │   └── routes.go      	
@@ -157,10 +157,10 @@ project-root/
 │   │   └── repository/     # Contiene la lógica de la base de datos
 │   ├── logger/			
 │   ├── security/           # Seguridad en los servicios (encripción)   
-│   ├── services/       	# Lógica de negocio de las rutas
+│   ├── services/       	  # Lógica de negocio de las rutas
 ├── test/                     
 ├── web/                          
-│   └── templates/		    # Web (HTML)
+│   └── templates/		      # Web (HTML)
 ├── .env              
 ├── Dockerfile                
 ├── docker-compose.yml        
